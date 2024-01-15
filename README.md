@@ -1,6 +1,6 @@
 # Türkiye Rust Geliştirici Listesi
 
-Bu doküman **Türkiye'deki Rust Programlama Dili geliştiricilerini tek bir çatı altında toplamak** amacıyla oluşturulmuştur.
+Bu doküman Türkiye'deki Rust Programlama Dili geliştiricilerini tek bir çatı altında toplamak amacıyla oluşturulmuştur.
 
 Listede güncelleme yapmak için Pull Request gönderebilirsiniz.
 
